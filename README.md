@@ -13,3 +13,5 @@
   ]
 }
 WALLET-LINKING-END -->
+
+Send all inquiries to info@demirix.com
