@@ -1,3 +1,7 @@
+
+
+Send all inquiries to info@demirix.com
+
 <!-- WALLET-LINKING-BEGIN
 {
   "lastUpdated": "2026-03-31T20:53:05.263Z",
@@ -13,5 +17,3 @@
   ]
 }
 WALLET-LINKING-END -->
-
-Send all inquiries to info@demirix.com
